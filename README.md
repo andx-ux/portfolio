@@ -3,7 +3,7 @@
 Веб-разработчик из Азербайджана. Делаю сайты-визитки, лендинги и веб-сервисы, а также Telegram-ботов.
 Работаю на русском и азербайджанском языках.
 
-**Связаться:** [LinkedIn](https://www.linkedin.com/in/anar-ibadov/)
+**Связаться:** [LinkedIn](https://www.linkedin.com/in/anar-ibadov/) · **Заказать сайт:** [Fiverr](https://www.fiverr.com/andxtt/build-a-responsive-business-website-or-landing-page)
 
 > Это витрина: здесь только описания и скриншоты. Исходный код проектов приватный и в открытом доступе не публикуется.
 > Код и материалы можно показать по запросу в рамках обсуждения заказа.
@@ -188,4 +188,4 @@
 
 Web developer based in Azerbaijan: business websites, landing pages, web services and Telegram bots.
 This repository is a showcase only (descriptions and watermarked screenshots). Source code is private and available on request.
-Contact: [LinkedIn](https://www.linkedin.com/in/anar-ibadov/).
+Contact: [LinkedIn](https://www.linkedin.com/in/anar-ibadov/). Order a website: [Fiverr](https://www.fiverr.com/andxtt/build-a-responsive-business-website-or-landing-page).
